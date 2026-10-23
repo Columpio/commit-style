@@ -1,0 +1,8 @@
+{
+  "$schema": "https://marketplace.staging.veai.ru/schema/plugin-manifest.schema.json",
+  "schemaVersion": 1,
+  "version": "0.1.0",
+  "name": "Commit Style",
+  "description": "Пишет сообщения коммитов в стиле Conventional Commits на русском языке: type(scope): тема, тело объясняет «почему», ссылка на задачу в футере.",
+  "license": "MIT"
+}
